@@ -1,0 +1,6 @@
+server:
+  ssl:
+    key-alias: spring-https
+    key-store: classpath:spring-boot.jsk
+    key-store-password: test123
+    key-store-type: JKS
